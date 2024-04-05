@@ -1,2 +1,2 @@
 # Flexbook
-Live Demo: [Flexbook](https://aakashdeep-21.github.io/Flexbook/feed.html)
+Live Demo: [Flexbook](https://flexbook-ui.netlify.app/)
